@@ -22,6 +22,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" heigth="40" tittle="Javascript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GIT" width="40" heigth="40" tittle="GIT">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="Python" width="40" heigth="40" tittle="Python">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="40" heigth="40" tittle="Bash">
   </div>
 </div>
 

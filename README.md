@@ -9,7 +9,7 @@
 ### 💬 About Me:
 
 
-- 🔭 I’m currently working on Personal Projects
+- 🔭 I’m currently working on Personal Projects and Security+ certification
 
 - 📫 How to reach me: savargaspaez@gmail.com
 

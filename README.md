@@ -28,11 +28,4 @@
 
 ---
 
-### 📊 My Stats: 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SebasVargas2&theme=gruvbox&mode=weekly)](https://git.io/streak-stats) ![SebasVargas2 GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasVargas2&show_icons=true&theme=gruvbox)
-
-
-[![Top Langs center](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasVargas2)](https://github.com/SebasVargas2/github-readme-stats)
-
 

@@ -8,8 +8,8 @@
 
 ### 💬 About Me:
 
-
-- 🔭 I’m currently working on Personal Projects and Security+ certification
+-  Security+ Certified
+- 🔭 I’m currently working on Personal Projects 
 
 - 📫 How to reach me: savargaspaez@gmail.com
 

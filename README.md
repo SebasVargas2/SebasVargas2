@@ -1,7 +1,7 @@
 <div class="header" align="center">
     <img src="https://media.giphy.com/media/YKLLS6ZGQsrwZVgXix/giphy.gif" alt="" width="200">
     <h1 align="center">Hi,👋 I'm SebastianV</h1>
-    <h3 align="center" >CyberSecurity learner | Pentester Junior | RedTeam! </h3>
+    <h3 align="center" >CyberSecurity learner | Pentester Junior | Bug Bounty Hunter! </h3>
 </div>
 
 ---
